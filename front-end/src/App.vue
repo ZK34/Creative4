@@ -6,7 +6,7 @@
     <router-view/>
 
     <div class="footer">
-      <a class="footer-item" target="_blank" href="https://github.com/ZK34/Creative4-CS260">Github Link</a>
+      <a class="footer-item" target="_blank" href="https://github.com/ZK34/Creative4">Github Link</a>
     </div>
   </div>
 </template>
